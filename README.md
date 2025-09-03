@@ -37,26 +37,26 @@ Dieses Repository dient der Azubi-Ausbildung für den Teilbereich Software-Entwi
 > [!NOTE]
 > Die Agenda ist noch immer im **Entwurf** Status und kann/sollte noch angepassst/erweitert werden.
 
-| Rubrik                          | Inhalt                                                                     | Zeitbedarf            | Patryk | Sven  | Sebastian | Sascha | Neo   |
-| ---                             | ---                                                                        | :---:                 | :---:  | :---: | :---:     | :---:  | :---: |
-| 👋 Kick-off                     | Agenda vorstellen                                                          | ~ **1h**              | x      | x     |           |        |       |
-| 🧱 [Grundlagen]                 |                                                                            | ~ **6h**              |        | (x)   |           | x      |       |
-|                                 | Gängige Programmiersprachen & relevante Anwendungsbereiche                 |                       |        |       |           |        |       |
-|                                 | Variablen/Datentypen, Operatoren, Bedingungen, Schleifen, I/O, Algorithmen |                       |        |       |           |        |       |
-|                                 | Backend vs. Frontend (und wie sie zusammenspielen)                         |                       |        |       |           |        |       |
-|                                 | Datenbanken                                                                |                       |        |       |           |        |       |
-| 🌿 [Versionsverwaltung]         | [Git]                                                                      | ~ **4h**              |        | x     | (x)       |        |       |
-| 🔗 [Softwareökosystem]          |                                                                            | ~ **8h**              |        | x     | (x)       |        |       |
-|                                 | GitHub/GitLab als Plattformen                                              |                       |        |       |           |        |       |
-|                                 | Framework-Dokumentationen und Referenzen                                   |                       |        |       |           |        |       |
-|                                 | Lizenzen (Open Source != Free)                                             |                       |        |       |           |        |       |
-|                                 | Laufzeitumgebungen (Node.js, .NET CLR, JVM)                                |                       |        |       |           |        |       |
-|                                 | APIs/Schnittstellen                                                        |                       |        |       |           |        |       |
-|                                 | Einsatz von KI (als Unterstützung, kein vibe coding)                       |                       |        |       |           |        |       |
-| 🌐 [Sprachen & Anwendungsfälle]  |                                                                            | ~ **13h**             |        |       |           |        |       |
-|                                 | Powershell- und Shell-Scripting (Automatisierung)                          | 7h                    |        |       |           | (x)    | x     |
-|                                 | C# ("C Sharp")                                                             | 6h                    |        |       | (x)       | x      |       |
-|                                 |                                                                            | --------<br>~ **32h** |        |       |           |        |       |
+| Rubrik                               | Inhalt                                                                     | Zeitbedarf            | Patryk | Sven  | Sebastian | Sascha | Neo   |
+| ---                                  | ---                                                                        | :---:                 | :---:  | :---: | :---:     | :---:  | :---: |
+| 👋&nbsp;Kick-off                     | Agenda vorstellen                                                          | ~ **1h**              | x      | x     |           |        |       |
+| 🧱&nbsp;[Grundlagen]                 |                                                                            | ~ **6h**              |        | (x)   |           | x      |       |
+|                                      | Gängige Programmiersprachen & relevante Anwendungsbereiche                 |                       |        |       |           |        |       |
+|                                      | Variablen/Datentypen, Operatoren, Bedingungen, Schleifen, I/O, Algorithmen |                       |        |       |           |        |       |
+|                                      | Backend vs. Frontend (und wie sie zusammenspielen)                         |                       |        |       |           |        |       |
+|                                      | Datenbanken                                                                |                       |        |       |           |        |       |
+| 🌿&nbsp;[Versionsverwaltung]         | [Git]                                                                      | ~ **4h**              |        | x     | (x)       |        |       |
+| 🔗&nbsp;[Softwareökosystem]          |                                                                            | ~ **8h**              |        | x     | (x)       |        |       |
+|                                      | GitHub/GitLab als Plattformen                                              |                       |        |       |           |        |       |
+|                                      | Framework-Dokumentationen und Referenzen                                   |                       |        |       |           |        |       |
+|                                      | Lizenzen (Open Source != Free)                                             |                       |        |       |           |        |       |
+|                                      | Laufzeitumgebungen (Node.js, .NET CLR, JVM)                                |                       |        |       |           |        |       |
+|                                      | APIs/Schnittstellen                                                        |                       |        |       |           |        |       |
+|                                      | Einsatz von KI (als Unterstützung, kein vibe coding)                       |                       |        |       |           |        |       |
+| 🌐&nbsp;[Sprachen & Anwendungsfälle]  |                                                                            | ~ **13h**             |        |       |           |        |       |
+|                                      | Powershell- und Shell-Scripting (Automatisierung)                          | 7h                    |        |       |           | (x)    | x     |
+|                                      | C# ("C Sharp")                                                             | 6h                    |        |       | (x)       | x      |       |
+|                                      |                                                                            | --------<br>~ **32h** |        |       |           |        |       |
 
 <br>
 
