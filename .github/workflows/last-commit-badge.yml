@@ -32,7 +32,7 @@ jobs:
           CONTRIBUTORS=$(git shortlog -sne HEAD | wc -l | tr -d ' ')
 
           cat > assets/badges/last-commit.svg <<SVG
-          <svg xmlns="http://www.w3.org/2000/svg" width="220" height="20" role="img" aria-label="last commit">
+          <svg xmlns="http://www.w3.org/2000/svg" width="165" height="20" role="img" aria-label="last commit">
             <rect width="95" height="20" fill="#555"/>
             <rect x="95" width="70" height="20" fill="#B8860B"/>
 
@@ -54,7 +54,7 @@ jobs:
           SVG
 
           cat > assets/badges/contributors.svg <<SVG
-          <svg xmlns="http://www.w3.org/2000/svg" width="260" height="20" role="img" aria-label="contributors">
+          <svg xmlns="http://www.w3.org/2000/svg" width="125" height="20" role="img" aria-label="contributors">
             <rect width="100" height="20" fill="#555"/>
             <rect x="100" width="25" height="20" fill="#556B2F"/>
 
