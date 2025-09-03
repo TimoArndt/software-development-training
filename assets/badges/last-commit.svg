@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="165" height="20" role="img" aria-label="last commit">
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="20" role="img" aria-label="last commit">
   <rect width="95" height="20" fill="#555"/>
-  <rect x="95" width="70" height="20" fill="#B8860B"/>
+  <rect x="95" width="80" height="20" fill="#B8860B"/>
 
   <!-- GitHub icon (Octocat) -->
   <g transform="translate(6,3) scale(0.9)" fill="#fff" aria-hidden="true">
@@ -10,7 +10,7 @@
   </g>
 
   <g fill="#fff" font-family="Verdana,DejaVu Sans,Helvetica,sans-serif" font-size="11">
-    <text x="30" y="14">last commit</text>
+    <text x="25" y="14">last commit</text>
   </g>
 
   <g fill="#fff" font-family="Verdana,DejaVu Sans,Helvetica,sans-serif" font-size="11">
