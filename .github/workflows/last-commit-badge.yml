@@ -1,4 +1,8 @@
 name: Generate last-commit and contributors badges
+
+permissions:
+  contents: write
+
 on:
   push:
     branches: ["main"]
