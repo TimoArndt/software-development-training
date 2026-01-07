@@ -19,7 +19,7 @@
 
 ### 🥇 Was
 
-Dieses Repository dient der Azubi-Ausbildung für den Teilbereich Software-Entwicklung.
+Dieses Repository dient der Azubi-Ausbildung für den Lehrplansteilbereich Software-Entwicklung.
 
 ### 🥈 Wozu
 
@@ -28,7 +28,7 @@ Dieses Repository dient der Azubi-Ausbildung für den Teilbereich Software-Entwi
 
 ### 🥉 Wer
 
-- Die Zielgruppe sind die Azubis der **BIG direkt gesund** (BIG) sowie der **Proact**.
+- Die Zielgruppe sind die Azubis der **BIG direkt gesund** sowie der **Proact**.
 - Die Durchführung der Schulung erfolgt durch die **BIG**.
 
 <br>
@@ -36,28 +36,29 @@ Dieses Repository dient der Azubi-Ausbildung für den Teilbereich Software-Entwi
 ## Agenda
 
 > [!NOTE]
-> Die Agenda ist noch immer im **Entwurf** Status und kann/sollte noch angepassst/erweitert werden.
+> 👨‍🏫 Tutor(en) für das Themengebiet<br>
+> (👨‍🚒) Vertretender Tutor für das Themengebiet
 
-| Rubrik                               | Inhalt                                                                     | Zeitbedarf            | Patryk | Sven  | Sebastian | Sascha | Neo   |
-| ---                                  | ---                                                                        | :---:                 | :---:  | :---: | :---:     | :---:  | :---: |
-| 👋&nbsp;Kick-off                     | Agenda vorstellen                                                          | ~ **1h**              | x      | x     |           |        |       |
-| 🧱&nbsp;[Grundlagen]                 |                                                                            | ~ **6h**              |        | (x)   |           | x      |       |
-|                                      | Gängige Programmiersprachen & relevante Anwendungsbereiche                 |                       |        |       |           |        |       |
-|                                      | Variablen/Datentypen, Operatoren, Bedingungen, Schleifen, I/O, Algorithmen |                       |        |       |           |        |       |
-|                                      | Backend vs. Frontend (und wie sie zusammenspielen)                         |                       |        |       |           |        |       |
-|                                      | Datenbanken                                                                |                       |        |       |           |        |       |
-| 🌿&nbsp;[Versionsverwaltung]         | [Git]                                                                      | ~ **4h**              |        | x     | (x)       |        |       |
-| 🔗&nbsp;[Softwareökosystem]          |                                                                            | ~ **8h**              |        | x     | (x)       |        |       |
-|                                      | GitHub/GitLab als Plattformen                                              |                       |        |       |           |        |       |
-|                                      | Framework-Dokumentationen und Referenzen                                   |                       |        |       |           |        |       |
-|                                      | Lizenzen (Open Source != Free)                                             |                       |        |       |           |        |       |
-|                                      | Laufzeitumgebungen (Node.js, .NET CLR, JVM)                                |                       |        |       |           |        |       |
-|                                      | APIs/Schnittstellen                                                        |                       |        |       |           |        |       |
-|                                      | Einsatz von KI (als Unterstützung, kein vibe coding)                       |                       |        |       |           |        |       |
-| 🌐&nbsp;[Sprachen & Anwendungsfälle]  |                                                                            | ~ **13h**             |        |       |           |        |       |
-|                                      | Powershell- und Shell-Scripting (Automatisierung)                          | 7h                    |        |       |           | (x)    | x     |
-|                                      | C# ("C Sharp")                                                             | 6h                    |        |       | (x)       | x      |       |
-|                                      |                                                                            | --------<br>~ **32h** |        |       |           |        |       |
+| Rubrik                               | Inhalt                                                                     | Datum/Zeit               | Patryk | Sven  | Sebastian | Sascha | Neo   | Maurice |
+| ---                                  | ---                                                                        | :---:                    | :---:  | :---: | :---:     | :---:  | :---: | :---:   |
+| 👋&nbsp;Kick-off                     | Kennenlernen, Agenda vorstellen                                            | 12.01.2026<br>~ **0,5h** | (👨‍🚒)  | 👨‍🏫    |           | 👨‍🏫     |       |         |
+| 🧱&nbsp;[Grundlagen]                 |                                                                            | 12.01.2026<br>~ **6h**   |        | 👨‍🏫   |           | 👨‍🏫     |       | (👨‍🚒)   |
+|                                      | Gängige Programmiersprachen & relevante Anwendungsbereiche                 |                          |        |       |           |        |       |         |
+|                                      | Variablen/Datentypen, Operatoren, Bedingungen, Schleifen, I/O, Algorithmen |                          |        |       |           |        |       |         |
+|                                      | Backend vs. Frontend (und wie sie zusammenspielen)                         |                          |        |       |           |        |       |         |
+|                                      | Datenbanken                                                                |                          |        |       |           |        |       |         |
+| 🌿&nbsp;[Versionsverwaltung]         | [Git]                                                                      | 15.01.2026<br>~ **4h**   |        | 👨‍🏫   | (👨‍🚒)      |        |       | (👨‍🚒)   |
+| 🔗&nbsp;[Softwareökosystem]          |                                                                            | 16.01.2026<br>~ **8h**   |        | 👨‍🏫   | (👨‍🚒)      |        |       | (👨‍🚒)   |
+|                                      | GitHub/GitLab als Plattformen                                              |                          |        |       |           |        |       |         |
+|                                      | Framework-Dokumentationen und Referenzen                                   |                          |        |       |           |        |       |         |
+|                                      | Lizenzen (Open Source != Free)                                             |                          |        |       |           |        |       |         |
+|                                      | Laufzeitumgebungen (Node.js, .NET CLR, JVM)                                |                          |        |       |           |        |       |         |
+|                                      | APIs/Schnittstellen                                                        |                          |        |       |           |        |       |         |
+|                                      | Einsatz von KI (als Unterstützung, kein vibe coding)                       |                          |        |       |           |        |       |         |
+| 🌐&nbsp;[Sprachen & Anwendungsfälle] |                                                                            | ~ **13h**                 |        |       |           |        |       |         |
+|                                      | Powershell- und Shell-Scripting (Automatisierung)                          | 22.01.2026<br>~ **7h**   |        |       |           | (👨‍🚒)   | 👨‍🏫    |         |
+|                                      | C# ("C Sharp")                                                             | 23.01.2026<br>~ **6h**   |        |       | (👨‍🚒)      | 👨‍🏫     |       | (👨‍🚒)   |
+|                                      |                                                                            | --------<br>~ **32h**    |        |       |           |        |        |         |
 
 <br>
 
@@ -67,24 +68,26 @@ Dieses Repository dient der Azubi-Ausbildung für den Teilbereich Software-Entwi
 > Die folgende Software, Zugänge und Konfigurationen sind erforderlich für die Umsetzung der Schulung (fluent training flow).
 
 - GitHub Account
-- Git
-- VSCode
-  - VSCode extensions
-  - (VSCode settings)
-  - VSCode bash terminal
+- [Git](https://git-scm.com/install/windows)
+- [Visual Studio Community Edition](https://visualstudio.microsoft.com/de/vs/community/)
+- [VSCode](https://code.visualstudio.com/Download) (Visual Studio Code)
+  - Extensions (wird bei Bedarf eingerichtet)
+  - Settings (wird per Download zu Verfügung gestellt)
+  - Terminal bash und Powershell (wird während der Schulung eingerichtet)
 
 <br>
 
 ## Playground
 
 > [!TIP]
-> Im Verzeichnis [Playground] können die Azubis ihre Versuche, Tests und Übungen machen.
+> Im Verzeichnis [Playground] können die Azubis ihre Versuche, Tests und Übungen machen/hinterlegen.
 
 <br>
 
 ## Ressourcen
 
 - https://github.com/ByteByteGoHq/system-design-101
+- ...
 
 ##
 
