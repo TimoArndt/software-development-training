@@ -95,6 +95,8 @@ Dieses Repository dient der Azubi-Ausbildung für den Lehrplansteilbereich Softw
 
 Veröffentlicht unter der MIT-Lizenz. Siehe [LICENSE](./LICENSE.md) für weitere Informationen.
 
+<br>
+
 ##
 
 [To the top](#top)
