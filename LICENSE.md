@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 BIG direkt gesund (Team SDT)
+Copyright (c) 2026 BIG direkt gesund (Team SDT)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
