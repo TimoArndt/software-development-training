@@ -35,6 +35,8 @@ Dieses Repository dient der Azubi-Ausbildung für den Lehrplanteilbereich Softwa
 
 ## Agenda
 
+### Themen
+
 > [!NOTE]
 > 👨‍🏫 Tutor(en) für das Themengebiet<br>
 > (👨‍🚒) Vertretender Tutor für das Themengebiet
@@ -60,6 +62,14 @@ Dieses Repository dient der Azubi-Ausbildung für den Lehrplanteilbereich Softwa
 |                                      | C# ("C Sharp")                                                             |        |       | (👨‍🚒)      | 👨‍🏫     |       | (👨‍🚒)   | 23.01.2026<br>~ **6h**   |
 |                                      |                                                                            |        |       |           |        |        |         | --------<br>~ **32h**    |
 
+### Tagesagenda
+
+- ⏱️&nbsp;[Tag 1]
+- ⏱️&nbsp;[Tag 2]
+- ⏱️&nbsp;[Tag 3]
+- ⏱️&nbsp;[Tag 4]
+- ⏱️&nbsp;[Tag 5]
+
 <br>
 
 ## Tooling
@@ -68,9 +78,9 @@ Dieses Repository dient der Azubi-Ausbildung für den Lehrplanteilbereich Softwa
 > Die folgende Software, Zugänge und Konfigurationen sind erforderlich für die Umsetzung der Schulung (fluent training flow).
 
 - GitHub Account
-- [Git](https://git-scm.com/install/windows)
-- [Visual Studio Community Edition](https://visualstudio.microsoft.com/de/vs/community/)
-- [VSCode](https://code.visualstudio.com/Download) (Visual Studio Code)
+- [Git download]
+- [Visual Studio Community Edition]
+- [VSCode] (Visual Studio Code)
   - Extensions (wird bei Bedarf eingerichtet)
   - Settings (wird per Download zu Verfügung gestellt)
   - Terminal bash und Powershell (wird während der Schulung eingerichtet)
@@ -93,7 +103,7 @@ Dieses Repository dient der Azubi-Ausbildung für den Lehrplanteilbereich Softwa
 
 ## License
 
-Veröffentlicht unter der MIT-Lizenz. Siehe [LICENSE](./LICENSE.md) für weitere Informationen.
+Veröffentlicht unter der MIT-Lizenz. Siehe [LICENSE] für weitere Informationen.
 
 <br>
 
@@ -101,9 +111,21 @@ Veröffentlicht unter der MIT-Lizenz. Siehe [LICENSE](./LICENSE.md) für weitere
 
 [To the top](#top)
 
-[Grundlagen]:                 ./docs/basics/basics.md
-[Versionsverwaltung]:         ./docs/version-control/version-control.md
-  [Git]:                      ./docs/version-control/git.md
-[Softwareökosystem]:          ./docs/software-ecosystem/software-ecosystem.md
-[Sprachen & Anwendungsfälle]: ./docs/languages-use-cases/languages-use-cases.md
-[Playground]:                 ./src/playground/
+[Grundlagen]:                       ./docs/basics/basics.md
+[Versionsverwaltung]:               ./docs/version-control/version-control.md
+  [Git]:                            ./docs/version-control/git.md
+[Softwareökosystem]:                ./docs/software-ecosystem/software-ecosystem.md
+[Sprachen & Anwendungsfälle]:       ./docs/languages-use-cases/languages-use-cases.md
+
+[Git download]:                     https://git-scm.com/install/windows
+[Visual Studio Community Edition]:  https://visualstudio.microsoft.com/de/vs/community/
+[VSCode]:                           https://code.visualstudio.com/Download
+
+[Playground]:                       ./src/playground/
+[LICENSE]:                          ./LICENSE.md
+
+[Tag 1]:                            ./docs/daily-plan/day-1.md
+[Tag 2]:                            ./docs/daily-plan/day-2.md
+[Tag 3]:                            ./docs/daily-plan/day-3.md
+[Tag 4]:                            ./docs/daily-plan/day-4.md
+[Tag 5]:                            ./docs/daily-plan/day-5.md
