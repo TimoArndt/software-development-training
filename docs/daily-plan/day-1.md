@@ -21,3 +21,7 @@ WebEx Meeting (siehe Termineinladung)
 | 15:50 - 16:00 (10min) | Pause                           |
 |                       |                                 |
 | 16:00 - 16:30 (30min) | Abschluss, Fragen, Feedback     |
+
+---
+
+Timekeeper: Wer möchte? Ansonsten lassen wir den [Zufall](https://www.random.org/lists/) entscheiden 😁 .
