@@ -9,6 +9,7 @@
 ![](./grundlagen-slides/slide-02.JPG)
 
 <br>
+<br>
 
 ### 1. Gängige Programmiersprachen
 
@@ -115,6 +116,7 @@
 
 ![](./grundlagen-slides/frontend-backend.png)
 
+<br>
 <br>
 
 ![](./grundlagen-slides/slide-36.JPG)
