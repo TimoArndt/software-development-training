@@ -92,7 +92,7 @@
 
 > [!NOTE]
 > Empfohlene PowerShell Cheat-Sheets sind unter<br>
-> https://cheatsheets.zip/powershell und https://cheatography.com/giangpdh/cheat-sheets/powershell/
+> https://cheatsheets.zip/powershell und https://cheatography.com/giangpdh/cheat-sheets/powershell/<br>
 > zu finden.
 
 <br>
