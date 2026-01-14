@@ -43,26 +43,28 @@ Dieses Repository dient der Azubi-Ausbildung für den Lehrplanteilbereich Softwa
 
 | Rubrik                               | Inhalt                                                 | Patryk | Sven  | Sebastian | Sascha | Neo   | Maurice | Datum/Zeit               |
 | ---                                  | ---                                                    | :---:  | :---: | :---:     | :---:  | :---: | :---:   | :---:                    |
-| 👋&nbsp;[Kick-off]                   | Kennenlernen, Agenda vorstellen                        | (👨‍🚒)  | 👨‍🏫    |           | 👨‍🏫     |       |         | 12.01.2026<br>~ **0,5h** |
-| 🧱&nbsp;[Grundlagen]                 |                                                        |        | 👨‍🏫   |           | 👨‍🏫     |       | (👨‍🚒)    | 12.01.2026<br>~ **6h**   |
+| 👋&nbsp;[Kick-off]                   | [Kennenlernen], Agenda vorstellen                      | (👨‍🚒)  | 👨‍🏫    |           | 👨‍🏫     |       |         | 12.01.2026<br>ca. **0,5h** |
+| 🧱&nbsp;[Grundlagen]                 |                                                        |        | 👨‍🏫   |           | 👨‍🏫     |       | (👨‍🚒)    | 12.01.2026<br>ca. **6h**   |
 |                                      | [Gängige Programmiersprachen], [Programmierparadigmen] |        |       |           |        |       |         |                          |
 |                                      | [IDEs & Entwicklungsumgebungen], [Hello World]         |        |       |           |        |       |         |                          |
 |                                      | [Variablen & Datentypen], [Operatoren], [Bedingungen]  |        |       |           |        |       |         |                          |
 |                                      | [Schleifen], [Algorithmen]                             |        |       |           |        |       |         |                          |
 |                                      | [Datenbanken und SQL]                                  |        |       |           |        |       |         |                          |
 |                                      | [Frontend & Backend]                                   |        |       |           |        |       |         |                          |
-| 🌿&nbsp;[Versionsverwaltung]         | [Git]                                                  |        | 👨‍🏫   | (👨‍🚒)      |        |       | (👨‍🚒)    | 15.01.2026<br>~ **4h**   |
-| 🔗&nbsp;[Softwareökosystem]          |                                                        |        | 👨‍🏫   | (👨‍🚒)      |        |       | (👨‍🚒)    | 16.01.2026<br>~ **8h**   |
+| 🌿&nbsp;[Versionskontrolle]          |                                                        |        | 👨‍🏫   | (👨‍🚒)      |        |       | (👨‍🚒)    | 15.01.2026<br>ca. **5h**   |
+|                                      | [Git Idee]                                             |        |       |           |        |       |         |                          |
+|                                      | [GitHub], [(Markdown)]                                   |        |       |           |        |       |         |                          |
+| 🔗&nbsp;[Softwareökosystem]          |                                                        |        | 👨‍🏫   | (👨‍🚒)      |        |       | (👨‍🚒)    | 16.01.2026<br>ca. **7h**   |
 |                                      | GitHub/GitLab als Plattformen                          |        |       |           |        |       |         |                          |
 |                                      | Framework-Dokumentationen und Referenzen               |        |       |           |        |       |         |                          |
 |                                      | Lizenzen (Open Source != Free)                         |        |       |           |        |       |         |                          |
 |                                      | Laufzeitumgebungen (Node.js, .NET CLR, JVM)            |        |       |           |        |       |         |                          |
 |                                      | APIs/Schnittstellen                                    |        |       |           |        |       |         |                          |
 |                                      | Einsatz von KI (als Unterstützung, kein vibe coding)   |        |       |           |        |       |         |                          |
-| 🌐&nbsp;[Sprachen & Anwendungsfälle]  |                                                        |        |       |           |        |       |         | | ~ **13h**              |
-|                                      | PowerShell- und Shell-Scripting (Automatisierung)      |        |       |           | (👨‍🚒)   | 👨‍🏫    |         | 22.01.2026<br>~ **7h**  |
-|                                      | C# ("C Sharp")                                         |        |       | (👨‍🚒)      | 👨‍🏫     |       | (👨‍🚒)    | 23.01.2026<br>~ **6h**  |
-|                                      |                                                        |        |       |           |        |        |        | --------<br>~ **32h**    |
+| 🌐&nbsp;[Sprachen & Anwendungsfälle]  |                                                        |        |       |           |        |       |         | | ca. **13h**              |
+|                                      | PowerShell- und Shell-Scripting (Automatisierung)      |        |       |           | (👨‍🚒)   | 👨‍🏫    |         | 22.01.2026<br>ca. **7h**  |
+|                                      | C# ("C Sharp")                                         |        |       | (👨‍🚒)      | 👨‍🏫     |       | (👨‍🚒)    | 23.01.2026<br>ca. **6h**  |
+|                                      |                                                        |        |       |           |        |        |        | --------<br>ca. **32h**    |
 
 ### Tagesagenda
 
@@ -80,7 +82,7 @@ Dieses Repository dient der Azubi-Ausbildung für den Lehrplanteilbereich Softwa
 > Die folgende Software, Zugänge und Konfigurationen sind erforderlich für die Umsetzung der Schulung (fluent training flow).
 
 - GitHub Account
-- [Git download]
+- [Git]
 - [Visual Studio Community Edition]
 - [VSCode] (Visual Studio Code)
   - Extensions (wird bei Bedarf eingerichtet)
@@ -115,6 +117,7 @@ Veröffentlicht unter der MIT-Lizenz. Siehe [LICENSE] für weitere Informationen
 [To the top](#top)
 
 [Kick-off]:                         ./docs/basics/kick-off.md
+[Kennenlernen]:                     ./src/welcome/
 [Grundlagen]:                       ./docs/basics/basics.md
   [Gängige Programmiersprachen]:    ./docs/basics/basics.md#1-gängige-programmiersprachen
   [Programmierparadigmen]:          ./docs/basics/basics.md#2-programmierparadigmen
@@ -127,12 +130,14 @@ Veröffentlicht unter der MIT-Lizenz. Siehe [LICENSE] für weitere Informationen
   [Algorithmen]:                    ./docs/basics/basics.md#9-algorithmen
   [Datenbanken und SQL]:            ./docs/basics/basics.md#10-datenbanken--kurzer-exkurs-in-sql-und-sql-management-studio
   [Frontend & Backend]:             ./docs/basics/basics.md#11-frontend-und-backend--zusammenhang
-[Versionsverwaltung]:               ./docs/version-control/version-control.md
-  [Git]:                            ./docs/version-control/git.md
+[Versionskontrolle]:                ./docs/version-control/version-control.md
+  [Git Idee]:                       ./docs/version-control/git-idea.md
+  [GitHub]:                         ./docs/version-control/github.md
+  [(Markdown)]:                     ./docs/version-control/markdown.md
 [Softwareökosystem]:                ./docs/software-ecosystem/software-ecosystem.md
 [Sprachen & Anwendungsfälle]:       ./docs/languages-use-cases/languages-use-cases.md
 
-[Git download]:                     https://git-scm.com/install/windows
+[Git]:                              https://git-scm.com/install/windows
 [Visual Studio Community Edition]:  https://visualstudio.microsoft.com/de/vs/community/
 [VSCode]:                           https://code.visualstudio.com/Download
 
